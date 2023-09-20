@@ -19,4 +19,5 @@
 
 ---
 
-## :placard:  Work in progress... 
+### Yet another CompSci student.. <br>
+ Learning front-end not beacuse its easy but I thought it would be.
