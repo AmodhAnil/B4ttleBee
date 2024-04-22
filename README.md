@@ -1,7 +1,6 @@
 <div id="header" align="justify">
   <img src="https://raw.githubusercontent.com/alansmathew/alansmathew/master/lang.gif" width="1000" />
 </div>
-
 <div id="badges">
   <a href="">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -14,10 +13,9 @@
   </a>
  <br>
   <img src="https://komarev.com/ghpvc/?username=B4ttleBee&style=flat-square&color=blue" alt=""/>
-
 </div>
 
 ---
 
 ### Yet another CompSci student.. <br>
- Learning front-end not beacuse its easy but I thought it would be.
+ Learning web dev not beacuse its easy but I thought it would be.
